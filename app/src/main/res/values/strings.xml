@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTaskAndroidDev</string>
+    <string name="inputNumberPlaceHolder">Type some number</string>
+    <string name="getFact">Get fact</string>
+    <string name="getFactAboutRandomNumber">Get fact about random number</string>
+    <string name="searchHistoryIsEmpty">The search history for interesting facts about numbers is empty</string>
+    <string name="goBack">Go back</string>
+</resources>
